@@ -1,0 +1,7 @@
+pytest==8.1.1
+pandas==2.2.3
+matplotlib
+plotly
+seaborn
+dash
+gunicorn
