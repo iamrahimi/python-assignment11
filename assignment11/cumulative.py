@@ -1,7 +1,7 @@
 import sqlite3
 import pandas as pd
 import matplotlib.pyplot as plt
-
+ 
 # Connect to the database
 conn = sqlite3.connect('db/lesson.db')
 
